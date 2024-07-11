@@ -9,3 +9,5 @@ top five variables identified as the most important.
 In the second Python file, the results are displayed through an interactive dashboard. This dashboard features a 
 dropdown menu where users can choose which variable to compare between customers who have left the bank and those who 
 have stayed. It also presents a classification report for the model and displays the model's accuracy on the provided dataset.
+
+To use the dashboard there is a url printed in the terminal, which can be copied into the browser in order to display it. 
