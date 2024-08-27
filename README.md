@@ -17,12 +17,10 @@ have stayed. It also presents a classification report for the model and displays
 The model achieved a 95% accuracy on the test data, which can be viewed as a very good result and indicates that the model is 
 highly accurate. Additionally, the dashboard and its graphs can be used to conduct further analysis on the data. 
 
-![Alt text](./LINC_Project1.png/image.png)
-
+![Alt text](https://github.com/Dogman00/Financial-machine-learning-model/blob/main/LINC_Project1.png?raw=true)
 The classification report provides a more in-depth view of the results, offering additional insights into the model's performance.
 
-![Alt text](./LINC_Project2.png/image.png)
-
+![Alt text](https://github.com/Dogman00/Financial-machine-learning-model/blob/main/LINC_Project2.png?raw=true)
 **How to use**
 
 To use the dashboard there is a url printed in the terminal, which can be copied into the browser in order to display it. 
