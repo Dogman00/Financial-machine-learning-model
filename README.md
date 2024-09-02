@@ -23,4 +23,6 @@ The classification report provides a more in-depth view of the results, offering
 ![Alt text](https://github.com/Dogman00/Financial-machine-learning-model/blob/main/LINC_Project2.png?raw=true)
 **How to use**
 
+`python3 FinalProjectDash.py`
+
 To use the dashboard there is a url printed in the terminal, which can be copied into the browser in order to display it. 
