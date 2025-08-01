@@ -44,5 +44,5 @@ After starting, copy the URL printed in the terminal (e.g., http://127.0.0.1:805
 ## Project Structure
 
 - `FinalProjectDash.py` - Main dashboard script
-- `model_training.py` - Script for training the RandomForest model
+- `FinlaProject.py` - Script for training the RandomForest model
 - `customer_data.csv` - Dataset file (not included in repo)
